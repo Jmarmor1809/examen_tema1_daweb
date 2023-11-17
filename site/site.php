@@ -4,6 +4,6 @@
 	<title>Examen t1</title>
 </head>
 <body>
-Esto es el cuerpo
+Esto es el cuerpo principal
 </body>
 </html>
